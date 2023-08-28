@@ -1,0 +1,39 @@
+{
+    "mon": [
+        {
+            "time": 0,
+            "teacher": "김민규",
+            "class": "자율"
+        },
+        {
+            "time": 1,
+            "teacher": "김수경",
+            "class": "통과"
+        },
+        {
+            "time": 2,
+            "teacher": "김미성",
+            "class": "독일어"
+        },
+        {
+            "time": 3,
+            "teacher": "류정민",
+            "class": "통사"
+        },
+        {
+            "time": 4,
+            "teacher": "김미성",
+            "class": "진로"
+        },
+        {
+            "time": 5,
+            "teacher": "윤수희",
+            "class": "미술"
+        },
+        {
+            "time": 6,
+            "teacher": "윤수희",
+            "class": "미술"
+        }
+    ]
+}
