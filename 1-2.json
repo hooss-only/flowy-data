@@ -3,7 +3,7 @@
         {
             "time": 0,
             "teacher": "김민규",
-            "class": "자율"
+            "class": "자율1"
         },
         {
             "time": 1,
@@ -34,6 +34,147 @@
             "time": 6,
             "teacher": "윤수희",
             "class": "미술"
+        }
+    ],
+    "tue": [
+        {
+            "time": 0,
+            "teacher": "김민규",
+            "class": "수학"
+        },
+        {
+            "time": 1,
+            "teacher": "정민주",
+            "class": "영원"
+        },
+        {
+            "time": 2,
+            "teacher": "최소연",
+            "class": "국어"
+        },
+        {
+            "time": 3,
+            "teacher": "정두환",
+            "class": "한국사"
+        },
+        {
+            "time": 4,
+            "class": "기술가정"
+        },
+        {
+            "time": 5,
+            "class": "기술가정"
+        },
+        {
+            "time": 6,
+            "teacher": "송윤근",
+            "class": "통과"
+        }
+    ],
+    "wed": [
+        {
+            "time": 0,
+            "teacher": "김원규",
+            "class": "국어"
+        },
+        {
+            "time": 1,
+            "teacher": "정성태",
+            "class": "체육"
+        },
+        {
+            "time": 2,
+            "teacher": "정민주",
+            "class": "영어"
+        },
+        {
+            "time": 3,
+            "teacher": "김민규",
+            "class": "수학"
+        },
+        {
+            "time": 4,
+            "teacher": "김민규",
+            "class": "자율2"
+        },
+        {
+            "time": 5,
+            "teacher": "김지영",
+            "class": "자율2"
+        }
+    ],
+    "thu": [
+        {
+            "time": 0,
+            "teacher": "김영경",
+            "class": "통과"
+        },
+        {
+            "time": 1,
+            "teacher": "김민규",
+            "class": "수학"
+        },
+        {
+            "time": 2,
+            "teacher": "최지영",
+            "class": "통사"
+        },
+        {
+            "time": 3,
+            "teacher": "현수경",
+            "class": "가정"
+        },
+        {
+            "time": 4,
+            "teacher": "최수진",
+            "class": "국어"
+        },
+        {
+            "time": 5,
+            "teacher": "최지훈",
+            "class": "실험"
+        },
+        {
+            "time": 6,
+            "teacher": "김은정",
+            "class": "영어"
+        }
+    ],
+    "fri": [
+        {
+            "time": 0,
+            "teacher": "김갑철",
+            "class": "통사"
+        },
+        {
+            "time": 1,
+            "teacher": "정두환",
+            "class": "한국사"
+        },
+        {
+            "time": 2,
+            "teacher": "김민규",
+            "class": "수학"
+        },
+        {
+            "time": 3,
+            "teacher": "정성태",
+            "class": "체육"
+        },
+        {
+            "time": 4,
+            "teacher": "김원규",
+            "class": "국어"
+        },
+        {
+            "time": 5,
+            "teacher": "김미성",
+            "class": "독일어"
+        },
+        {
+            "time": 6,
+            "teacher": "김지영",
+            "class": "영어"
         }
     ]
 }
