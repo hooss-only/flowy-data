@@ -59,10 +59,12 @@
         },
         {
             "time": 4,
+            "teacher": "?",
             "class": "기술가정"
         },
         {
             "time": 5,
+            "teacher": "?",
             "class": "기술가정"
         },
         {
@@ -121,8 +123,8 @@
         },
         {
             "time": 3,
-            "teacher": "현수경",
-            "class": "가정"
+            "teacher": "?",
+            "class": "기술가정"
         },
         {
             "time": 4,
